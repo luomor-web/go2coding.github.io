@@ -55,7 +55,7 @@ nav-ai.luomor.com 是一个开源导航网站，旨在为爱好人工智能的�
 
 
 
-![aibard123_screenshot](https://nav-ai.luomor.com/assets/images/screenshot/shot.png)
+![luomor-nav-ai_screenshot](https://nav-ai.luomor.com/assets/images/screenshot/shot.png)
 
 
 如果想看看效果可也访问：[nav-ai.luomor.com](https://nav-ai.luomor.com/?github_web)
@@ -63,7 +63,7 @@ nav-ai.luomor.com 是一个开源导航网站，旨在为爱好人工智能的�
 
 AI知识学习可以加入QQ群，每天免费学习资料推送：
 
-![aibard123_screenshot](https://nav-ai.luomor.com/assets/images/screenshot/aibard123qqlogo.png)
+![luomor-nav-ai_screenshot](https://nav-ai.luomor.com/assets/images/screenshot/luomor-nav-ai.png)
 
 
 感谢 [一个基于 Hugo 的静态响应式网址导航主题](https://www.luomor.com)， 他是 在 [一个基于 Hugo 的静态响应式网址导航主题](https://www.luomor.com)的基础上修改而来，感谢[webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 和其他人的贡献。
