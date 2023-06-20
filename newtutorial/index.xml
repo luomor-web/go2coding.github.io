@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Newtutorials on AiBard123| ai工具网址导航,ai最新产品</title>
-    <link>https://aibard123.com/newtutorial/</link>
+    <link>https://nav-ai.luomor.com/newtutorial/</link>
     <description>Recent content in Newtutorials on AiBard123| ai工具网址导航,ai最新产品</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Jun 2023 00:10:40 +0600</lastBuildDate><atom:link href="https://aibard123.com/newtutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2023 00:10:40 +0600</lastBuildDate><atom:link href="https://nav-ai.luomor.com/newtutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leap Midjourney的直接竞争对手</title>
-      <link>https://aibard123.com/newtutorial/Leap/</link>
+      <link>https://nav-ai.luomor.com/newtutorial/Leap/</link>
       <pubDate>Thu, 08 Jun 2023 00:10:40 +0600</pubDate>
       
-      <guid>https://aibard123.com/newtutorial/Leap/</guid>
+      <guid>https://nav-ai.luomor.com/newtutorial/Leap/</guid>
       <description>介绍 如今，随着AI技术的发展，我们越来越难以相信照片的真实性。即使你以为看到的是某部电影的剧照，实际上，它可能是由AI生成的图片，而且还可以免费试用。 Leap是一款非常强大的AI生成平台，可以轻松为你生成逼真的广告图片。这种效果让网友们惊叹</description>
     </item>
     
     <item>
       <title>MusicGen</title>
-      <link>https://aibard123.com/newtutorial/musicgen/</link>
+      <link>https://nav-ai.luomor.com/newtutorial/musicgen/</link>
       <pubDate>Mon, 29 May 2023 00:18:40 +0600</pubDate>
       
-      <guid>https://aibard123.com/newtutorial/musicgen/</guid>
+      <guid>https://nav-ai.luomor.com/newtutorial/musicgen/</guid>
       <description>介绍 Meta的Audiocraft研究团队推出了MusicGen，这是一个开源深度学习语言模型，可以根据文本提示和现有歌曲生成新的音乐。 MusicGen使用20000小时的授权音乐进行训练，并且与Google的MusicLM及其他模型相比具</description>
     </item>
     
     <item>
       <title>MusicLM</title>
-      <link>https://aibard123.com/newtutorial/musiclm/</link>
+      <link>https://nav-ai.luomor.com/newtutorial/musiclm/</link>
       <pubDate>Mon, 29 May 2023 00:18:40 +0600</pubDate>
       
-      <guid>https://aibard123.com/newtutorial/musiclm/</guid>
+      <guid>https://nav-ai.luomor.com/newtutorial/musiclm/</guid>
       <description>介绍 MusicLM是一个模型，可以从文本描述中生成高保真度的音乐，例如“由失真的吉他伴奏的平静的小提琴旋律”。 该模型将有条件的音乐生成过程视为分层序列到序列建模任务，并以24 kHz生成音乐，其一致性在几分钟内保持不变。 MusicLM在音频质</description>
     </item>
     
     <item>
       <title>So Vits Svc</title>
-      <link>https://aibard123.com/newtutorial/SVC/</link>
+      <link>https://nav-ai.luomor.com/newtutorial/SVC/</link>
       <pubDate>Mon, 29 May 2023 00:17:40 +0600</pubDate>
       
-      <guid>https://aibard123.com/newtutorial/SVC/</guid>
+      <guid>https://nav-ai.luomor.com/newtutorial/SVC/</guid>
       <description>介绍 So Vits Svc是一个用来模拟人声的开源项目，可以将您训练好的声音模型，用于生成类似微软云希、抖音文字转语音等效果。 希望大家能够务必遵循So-VITS使用规约： 任何发布到视频平台的基于sovits制作的视频，都必须要在简介明确指明用于变声器转</description>
     </item>
     
     <item>
       <title>Drag Gan</title>
-      <link>https://aibard123.com/newtutorial/DragGan/</link>
+      <link>https://nav-ai.luomor.com/newtutorial/DragGan/</link>
       <pubDate>Mon, 29 May 2023 00:16:40 +0600</pubDate>
       
-      <guid>https://aibard123.com/newtutorial/DragGan/</guid>
+      <guid>https://nav-ai.luomor.com/newtutorial/DragGan/</guid>
       <description>介绍 DragGAN是一种交互式的基于点的图像生成模型，可以通过拖动图像中的点来实现对生成图像的精确控制。 该模型由两个主要组成部分组成： 1）基于特征的运动监督，用于驱动手柄点向目标位置移动； 2）一种新的点跟踪方法，利用GAN的判别特征来定位手</description>
     </item>
     
     <item>
       <title>Voice.AI</title>
-      <link>https://aibard123.com/newtutorial/Microsoft-Designer/</link>
+      <link>https://nav-ai.luomor.com/newtutorial/Microsoft-Designer/</link>
       <pubDate>Mon, 29 May 2023 00:13:40 +0600</pubDate>
       
-      <guid>https://aibard123.com/newtutorial/Microsoft-Designer/</guid>
+      <guid>https://nav-ai.luomor.com/newtutorial/Microsoft-Designer/</guid>
       <description>介绍 Voice.ai是一个在线语音转换工具，可以将文本转换为语音。它提供了多种语音效果，用户可以选择不同的语音效果来转换文本。 Voice.ai还提供了一个庞大的UGC语音库，用户可以选择不同的语音来转换文本。Voice.ai可以帮助用户快速</description>
     </item>
     
     <item>
       <title>Microsoft Designer</title>
-      <link>https://aibard123.com/newtutorial/Voice-AI/</link>
+      <link>https://nav-ai.luomor.com/newtutorial/Voice-AI/</link>
       <pubDate>Mon, 29 May 2023 00:12:40 +0600</pubDate>
       
-      <guid>https://aibard123.com/newtutorial/Voice-AI/</guid>
+      <guid>https://nav-ai.luomor.com/newtutorial/Voice-AI/</guid>
       <description>介绍 Microsoft Designer，这是一款免费的人工智能驱动的平面设计应用，可以帮助用户设计高质量的社交媒体帖子、数字明信片等。 它提供了一键式的设计建议，也可以用DALL.E 2.5帮助用户根据文字描述创造出真实的图像和艺术。 用户可以选择风格包，包括色</description>
     </item>
     
     <item>
       <title>Dora AI</title>
-      <link>https://aibard123.com/newtutorial/Dora/</link>
+      <link>https://nav-ai.luomor.com/newtutorial/Dora/</link>
       <pubDate>Mon, 29 May 2023 00:11:40 +0600</pubDate>
       
-      <guid>https://aibard123.com/newtutorial/Dora/</guid>
+      <guid>https://nav-ai.luomor.com/newtutorial/Dora/</guid>
       <description>介绍 Dora AI是一个无代码网站构建平台，它可以根据用户输入的文本生成网站、3D交互动画和高级AI动画。 Dora AI的产品团队来自中国北京，目前正在进行alpha内测。 用户可以通过拖拽元素组件创建带有3D元素和动画效果的网站，并借助Flutter实现响</description>
     </item>
     
     <item>
       <title>FaceSwap</title>
-      <link>https://aibard123.com/newtutorial/FaceSwap/</link>
+      <link>https://nav-ai.luomor.com/newtutorial/FaceSwap/</link>
       <pubDate>Mon, 29 May 2023 00:10:40 +0600</pubDate>
       
-      <guid>https://aibard123.com/newtutorial/FaceSwap/</guid>
+      <guid>https://nav-ai.luomor.com/newtutorial/FaceSwap/</guid>
       <description>介绍 一款开源的AI视频换脸工具，可以把视频中人物的脸换成任何你想要的人脸，效果超级的逼真。 Faceswap是一个利用深度学习来识别图片和视频中的人脸，并进行变换人脸的工具。 它是一款换脸软件，可以将一个人的脸部特征替换为另一个人的脸部特征。F</description>
     </item>
     
     <item>
       <title>数字鸭AI助手</title>
-      <link>https://aibard123.com/newtutorial/DuckAI/</link>
+      <link>https://nav-ai.luomor.com/newtutorial/DuckAI/</link>
       <pubDate>Thu, 25 May 2023 00:10:40 +0600</pubDate>
       
-      <guid>https://aibard123.com/newtutorial/DuckAI/</guid>
+      <guid>https://nav-ai.luomor.com/newtutorial/DuckAI/</guid>
       <description>功能： 数字鸭接入官方GPT4 api和官方midjourney最新版本模型，midjourney目前支持MJ v5.1和NIJI 5模型，以后官方更新也会同步更新。是目前国内唯一一个同时具备GPT4+midjourney双服务的平台，且都是完整功</description>
     </item>
     
     <item>
       <title>Claude AI对话工具-通过它找到任何想要的答案</title>
-      <link>https://aibard123.com/newtutorial/Claude/</link>
+      <link>https://nav-ai.luomor.com/newtutorial/Claude/</link>
       <pubDate>Tue, 23 May 2023 00:10:40 +0600</pubDate>
       
-      <guid>https://aibard123.com/newtutorial/Claude/</guid>
+      <guid>https://nav-ai.luomor.com/newtutorial/Claude/</guid>
       <description>特性 Unfortunately, Claude is only available in certain countries and regions right now. We will soon publish a list of supported locations on our website. 我们来看看 Claude 是怎么来介绍自己的： Anthropic 是一家人工智能安全性公司。它主要提供以下服务: AI安全咨询服务:帮助企业确保其AI系统的安全性和可靠性,防止系统失控或被恶意利用。Anthropic 的团队</description>
     </item>
     
     <item>
       <title>WeTab的安装和使用</title>
-      <link>https://aibard123.com/newtutorial/WeTab/</link>
+      <link>https://nav-ai.luomor.com/newtutorial/WeTab/</link>
       <pubDate>Mon, 08 May 2023 00:10:40 +0600</pubDate>
       
-      <guid>https://aibard123.com/newtutorial/WeTab/</guid>
+      <guid>https://nav-ai.luomor.com/newtutorial/WeTab/</guid>
       <description>使用 🗼打开windows 的 edge 浏览器。如果现在的操作系统是windows10 或者是windows 11 的话，edge 浏览器就显得非常的好用了。edge 浏览器 是windows 自带的浏览器，用起来比ie好用多了。 🗼在地址栏中输入：edge://ext</description>
     </item>
     
     <item>
       <title>ChatGPT 的注册和使用</title>
-      <link>https://aibard123.com/newtutorial/ChatGPT/</link>
+      <link>https://nav-ai.luomor.com/newtutorial/ChatGPT/</link>
       <pubDate>Fri, 13 Jan 2023 19:10:40 +0600</pubDate>
       
-      <guid>https://aibard123.com/newtutorial/ChatGPT/</guid>
+      <guid>https://nav-ai.luomor.com/newtutorial/ChatGPT/</guid>
       <description>ChatGPT 的申请 注册和登录GooGPT需要使用魔法上网，并使用国外IP地址进行访问。大陆、香港、澳门等地区无法使用，但是日本、美国和新加坡等地区可以使用。 此外，需要有一个可以接收验证码的国外手机号，也必须是上述网络环境之外的地区手机号（注意部分虚拟</description>
     </item>
     

@@ -29,7 +29,7 @@
 
 ## 特色功能
 
-aibard123.com 是一个开源导航网站，旨在为爱好人工智能的人提供一个全面的资源汇总平台。它主要包含以下四个核心功能：
+nav-ai.luomor.com 是一个开源导航网站，旨在为爱好人工智能的人提供一个全面的资源汇总平台。它主要包含以下四个核心功能：
 
 1. 最新AI产品介绍：展示了国内知名的AI工具和服务，为用户提供了解行业动态、快速选定合适产品的渠道。
 
@@ -55,15 +55,15 @@ aibard123.com 是一个开源导航网站，旨在为爱好人工智能的人提
 
 
 
-![aibard123_screenshot](https://aibard123.com/assets/images/screenshot/shot.png)
+![aibard123_screenshot](https://nav-ai.luomor.com/assets/images/screenshot/shot.png)
 
 
-如果想看看效果可也访问：[aibard123.com](https://aibard123.com/?github_web) 或者[aibard123.top](https://aibard123.top/?github_web)
+如果想看看效果可也访问：[nav-ai.luomor.com](https://nav-ai.luomor.com/?github_web)
 
 
 AI知识学习可以加入QQ群，每天免费学习资料推送：
 
-![aibard123_screenshot](https://aibard123.com/assets/images/screenshot/aibard123qqlogo.png)
+![aibard123_screenshot](https://nav-ai.luomor.com/assets/images/screenshot/aibard123qqlogo.png)
 
 
-感谢 [一个基于 Hugo 的静态响应式网址导航主题](https://github.com/shenweiyan/WebStack-Hugo)， 他是 在 [一个基于 Hugo 的静态响应式网址导航主题](https://github.com/shenweiyan/WebStack-Hugo)的基础上修改而来，感谢[webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 和其他人的贡献。
+感谢 [一个基于 Hugo 的静态响应式网址导航主题](https://www.luomor.com)， 他是 在 [一个基于 Hugo 的静态响应式网址导航主题](https://www.luomor.com)的基础上修改而来，感谢[webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 和其他人的贡献。
